@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height: 200px;
+    background-color: #16a085;
+}
+
+main{
+    height: 200px;
+    display: flex;
+}
+
+#div1-main{
+    width: 50%;
+    height: 200px;
+    background-color: #2ecc71;
+}
+
+#div2-main{
+    width: 50%;
+    height: 200px;
+    background-color: #66cc96;
+}
+
+footer{
+    height: 200px;
+    display: flex;
+}
+
+#div1-footer{
+    width: 25%;
+    height: 200px;
+    background-color: #96faa5;
+}
+
+#div2-footer{
+    width: 25%;
+    height: 200px;
+    background-color: #b7fad8;
+}
+#div3-footer{
+    width: 25%;
+    height: 200px;
+    background-color: #c2f970;
+}
+
+#div4-footer{
+    width: 25%;
+    height: 200px;
+    background-color: #eaf2d7;
+}
